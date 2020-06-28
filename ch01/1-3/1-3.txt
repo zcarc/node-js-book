@@ -1,0 +1,6 @@
+
+태스크 큐에 들어가는 함수
+setTimeout, setInterval,
+setImmediate,
+Promise resolve, reject (async, await),
+이벤트리스너의 콜백 함수들
